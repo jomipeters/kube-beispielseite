@@ -1,13 +1,12 @@
 +++
-date = "2017-03-02T21:56:55+01:00"
-title = "Welcome to Kube"
-tags = ["markdown","example"]
 categories = ["general"]
-draft = false
+date = "2017-03-02T21:56:55+01:00"
 description = "This article is just a demo post and shows you the style of common used elements writing in pure markdown without HTML code."
+tags = ["markdown", "example"]
+title = "Welcome to Kube"
 weight = 10
-+++
 
++++
 # Welcome to Kube – an open source documentation like theme for Hugo
 
 Hi there and welcome to kube - my two theme for the static site generator [hugo](https://gohugo.io/). kube is open source and can be found on [kube](https://kube.elemnts.org/). This article is just a demo post and shows you the style of common used elements.
@@ -15,6 +14,8 @@ Hi there and welcome to kube - my two theme for the static site generator [hugo]
 Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake
 jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar
 cheesecake. Sugar plum bonbon bonbon lemon drops gummies.
+
+Hier ist eine neue Zeile mit einem [Link](https://terminkoenig.de)
 
 ## Inline 🦄  Text Styles [a link](http://kube.elemnts.org)
 
@@ -24,24 +25,26 @@ Chocolate tiramisu pastry [a link](http://zutrinken.com) cotton candy sesame sna
 
 Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon. Jelly beans pudding oat cake pie.
 
-*   Jelly beans pudding oat cake pie.
-*   Cupcake cupcake oat cake candy lemon
-*   Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish
-*   Sweet roll sweet sugar plum donut
-    *   Bear claw gingerbread cake donut chocolate bar
-    *   Topping cake fruitcake fruitcake
-*   Ice cream icing chupa chups cupcake jelly-o candy
-*   Croissant jujubes topping tart soufflé pudding
-    *   Cheesecake caramels icing
-    *   Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon
+* Jelly beans pudding oat cake pie.
+* Cupcake cupcake oat cake candy lemon
+* Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish
+* Sweet roll sweet sugar plum donut
+  * Bear claw gingerbread cake donut chocolate bar
+  * Topping cake fruitcake fruitcake
+* Ice cream icing chupa chups cupcake jelly-o candy
+* Croissant jujubes topping tart soufflé pudding
+  * Cheesecake caramels icing
+  * Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon
 
 Ice cream icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding. Cheesecake caramels icing.
 
-1.  Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish
-*   Sweet roll sweet sugar plum donut 
-    *   Bear claw gingerbread cake donut chocolate bar
-    *   Topping cake fruitcake fruitcake
-3.  Ice cream icing chupa chups cupcake jelly-o candy
+1. Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish
+
+* Sweet roll sweet sugar plum donut
+  * Bear claw gingerbread cake donut chocolate bar
+  * Topping cake fruitcake fruitcake
+
+1. Ice cream icing chupa chups cupcake jelly-o candy
 
 Liquorice marshmallow sweet macaroon. Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.
 
@@ -55,17 +58,16 @@ Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet bi
 
 Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies.
 
-|  RGB | WMYN  |
-|---|---|
-| Red  |  Cyan |
-| Green  |  Magenta |
-| Yellow  |  Black |
-
+| RGB | WMYN |
+| --- | --- |
+| Red | Cyan |
+| Green | Magenta |
+| Yellow | Black |
 
 Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.
 
 > Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake.
-> 
+>
 > Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.
 
 Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream pudding.
@@ -78,8 +80,6 @@ Apple pie jelly-o powder powder sweet. Halvah chocolate bar cotton candy sugar p
 
 Macaroon jelly toffee cheesecake muffin lollipop dragée cake gummies. Cotton candy biscuit cupcake. Cupcake chupa chups carrot cake. Chocolate bar donut gummies wafer pastry sesame snaps oat cake.
 
-* * *
+***
 
 Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies. Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake. Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.
-
-
